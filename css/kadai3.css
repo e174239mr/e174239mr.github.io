@@ -1,0 +1,22 @@
+h1{
+    color:darkorange;
+    font-family:"Impact";
+    text-align:center;
+    background-color:aquamarine;
+}
+h2{
+     color:red;
+    font-family:"Impact";
+    text-align:center;
+    background-color:aquamarine;
+}
+h3{
+    color:palevioletred;
+}
+p{
+    font-weight:bold;
+}
+
+body{
+    background-image: url("../images/haikei.jpg");
+}
