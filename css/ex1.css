@@ -1,0 +1,30 @@
+h1{
+    color:darkorange;
+    font-family:"Impact";
+    text-align:center;
+    background-color:aquamarine;
+}
+h2{
+     color:red;
+    font-family:"Impact";
+    text-align:center;
+    background-color:aquamarine;
+}
+h3{
+    color:palevioletred;
+}
+p{
+    font-weight:bold;
+    color:white;
+}
+
+table{
+    background-color: floralwhite;
+}
+ol{
+   background-image: url("../images/haikei2.jfif");
+}
+
+body{
+    background-image: url("../images/haikei.jpg");
+}
