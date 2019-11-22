@@ -1,0 +1,30 @@
+.b{
+    color :blue;
+    font-family:"Impact";
+    text-align:center;
+    background-color: black;
+    
+}
+
+.a{
+    color :red;
+    font-family:"Impact";
+    text-align:center;
+    background-color: white;
+}
+
+.c{
+    color : aqua;
+    font-family:"Impact";
+    text-align:center;
+    background-color: orange;
+}
+.d{
+     color : purple;
+    font-family:"Impact";
+    text-align:center;
+    background-color: gainsboro;
+}
+body{
+    background-image: url("../images/haike2.jfif");
+}
