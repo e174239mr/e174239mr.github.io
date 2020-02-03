@@ -1,0 +1,52 @@
+h1{
+    color:darkorange;
+    font-family:"Impact";
+    text-align:center;
+    background-color:aquamarine;
+}
+h2{
+     color:red;
+    font-family:"Impact";
+    text-align:center;
+    font-size:50px;
+    background-color:aquamarine;
+}
+h3{
+     color:blue;
+    font-family:"Impact";
+    text-align:center;
+    font-size:30px;
+    background-color:aquamarine;
+}
+
+img {
+    width: 450px;
+    height: 200px;
+}
+img b{
+    width: 300px;
+    height: 200px;
+}
+h3{
+    color:palevioletred;
+    font-size:40px;
+}
+p{
+    font-weight:bold;
+    color:white;
+}
+ul{
+    font-size:30px;
+    color: black;
+}
+a{
+    color: aliceblue;
+}
+table{
+    background-color: floralwhite;
+}
+
+body{
+    background-image:url("../imegs/h1.jfif")
+     
+}

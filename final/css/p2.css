@@ -1,0 +1,49 @@
+h1{
+    color:crimson;
+    font-family:"Impact";
+    text-align:center;
+    background-color:palegreen;
+}
+h2{
+     color:green;
+    font-family:"Impact";
+    text-align:center;
+    font-size:50px;
+    background-color:palegreen;
+}
+h3{
+     color:darkorange;
+    font-family:"Impact";
+    text-align:center;
+    font-size:30px;
+    background-color:palegreen;
+}
+
+img {
+    width: 480px;
+    height: 200px;
+}
+
+h3{
+    color:palevioletred;
+    font-size:40px;
+}
+p{
+    font-weight:bold;
+    color:white;
+}
+ul{
+    font-size:20px;
+    color: white;
+}
+a{
+    color: aliceblue;
+}
+table{
+    background-color: floralwhite;
+}
+
+body{
+    background-image:url("../imegs/haikei3.jfif")
+     
+}
